@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d24a7184f5a25e06dbf63798654237e5",
-"assets/AssetManifest.bin.json": "a8b4fef460826347dd1b6c4889439021",
-"assets/AssetManifest.json": "391418c21c0accc79ff4d725d52fbf58",
+const RESOURCES = {"assets/AssetManifest.bin": "07a8fe721a6088343b9ddc70617cdaa9",
+"assets/AssetManifest.bin.json": "f3a358764fa7061cc960e0007f43adab",
+"assets/AssetManifest.json": "dbf0c2807d1cbf0237c6358032a962b4",
 "assets/assets/audio/Background_Music.mp3": "47251ebb387a749f169a5520b0a35333",
 "assets/assets/audio/losing_music.mp3": "6783d86e383e3359c5895c27e4d465e0",
 "assets/assets/audio/winning_music.mp3": "de7c0cf36488e8bae779a91a49d5d0cd",
@@ -18,8 +18,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "d24a7184f5a25e06dbf63798654237e5
 "assets/assets/images/bombs/jelly_gelb_vertical.png": "8fecacb0483ebe1f61ff5f73dbed8cc6",
 "assets/assets/images/login/login-page.png": "f45c95902f8a94a7d0d768041671142b",
 "assets/assets/images/others/close.png": "8b42946a746e241c3297b86b4bc8503e",
-"assets/assets/instructions/hallo_screen_1.png": "d338c4c12188acafe75737d9ec1d9933",
-"assets/assets/instructions/hallo_screen_2.png": "3c7831caf310dec29f56ee6f2c1e6bbc",
 "assets/assets/instructions/InstallAndroid.png": "a46e612f4645d6b54331a3edcc69c0e5",
 "assets/assets/instructions/InstallAndroid_alt1.png": "f8bee7d186c1b92818b97cc00c03236b",
 "assets/assets/instructions/InstallAndroid_alt2.png": "29b38862caec931e5b4b975c069d22a3",
@@ -36,10 +34,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "d24a7184f5a25e06dbf63798654237e5
 "assets/assets/instructions/ins_6_competition.png": "9100766934d700b279212af368e786b3",
 "assets/assets/instructions/ins_6_deactivated.png": "1fe6ed3762ff691f4a9d010b5c825aae",
 "assets/assets/instructions/ins_6_FoMo.png": "1fe6ed3762ff691f4a9d010b5c825aae",
+"assets/assets/instructions/welcome_1.png": "d338c4c12188acafe75737d9ec1d9933",
+"assets/assets/instructions/welcome_2.png": "3c7831caf310dec29f56ee6f2c1e6bbc",
 "assets/assets/unityLevels.json": "55431dd292165b8192cb239460fc0f01",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4ad6e11a975aaf5c81ad70f95912ee89",
-"assets/NOTICES": "d74b381efb2ccbcc552b513eabdb63bc",
+"assets/NOTICES": "5e5c9e0f112a5698c496cf2596ced743",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "496db7c343c8280b1689a665721d8757",
 "assets/packages/fluttertoast/assets/toastify.css": "910ddaaf9712a0b0392cf7975a3b7fb5",
 "assets/packages/fluttertoast/assets/toastify.js": "18cfdd77033aa55d215e8a78c090ba89",
@@ -58,13 +58,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "d24a7184f5a25e06dbf63798654237e5
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "804902361a3dfaef9882feeacf531036",
 "firebase-messaging-custom.js": "c3e2ec9673ba16e85d26b595b2a77065",
-"firebase-messaging-sw.js": "58ad7d0c2349520355f609b4e59f8d48",
+"firebase-messaging-sw.js": "ff9a7de782a352f01966ac8e4225218e",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "icons/Icon-192.png": "1b053054a6b03d313d113f8608135878",
 "icons/Icon-512.png": "804902361a3dfaef9882feeacf531036",
-"index.html": "0a828ccd18402d9e9f05a0218fbd7d09",
-"/": "0a828ccd18402d9e9f05a0218fbd7d09",
-"main.dart.js": "e0a06871786d2ec6ef0f1d70fd711042",
+"index.html": "5a11e2cf545e58b2b5c608e19a88fcdf",
+"/": "5a11e2cf545e58b2b5c608e19a88fcdf",
+"main.dart.js": "29179b7f05382330735d475072d116a4",
 "manifest.json": "8a30a71d689a5fe636d33599e3f6a741",
 "UnityLibrary/Build/UnityLibrary.data": "57f2fb5b80f0d80799b01b2d25bbea7f",
 "UnityLibrary/Build/UnityLibrary.framework.js": "a79b9c70ea66efc5d6e6acdf513424bf",
@@ -84,7 +84,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d24a7184f5a25e06dbf63798654237e5
 "UnityLibrary/TemplateData/unity-logo-light.png": "daf8545f18a102b4fa8f693681c2ffe0",
 "UnityLibrary/TemplateData/webgl-logo.png": "0c09503c39e9a26675e5f56d82f061b3",
 "UnityLibrary/TemplateData/webmemd-icon.png": "e409a6f1c955c2babb36cd2153d418b5",
-"version.json": "f5e0462d477f15b84e2fad68c3801e05"};
+"version.json": "00deb62699f84b44348922cb3f84cbcd"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

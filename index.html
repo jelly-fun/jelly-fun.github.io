@@ -23,7 +23,7 @@
     <link href="manifest.json" rel="manifest">
     <script>
          // The value below is injected by flutter build, do not touch.
-         const serviceWorkerVersion = "1719568423";
+         const serviceWorkerVersion = "3491331951";
 
     </script>
     <!-- This script adds the flutter initialization JS code -->
@@ -88,6 +88,36 @@
 
 
 
+</script>
+<script>
+    let deferredPrompt;
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      deferredPrompt = e;
+    });
+
+    function promptInstall(){
+       deferredPrompt.prompt();
+    }
+
+    // Listen for app install event
+    window.addEventListener('appinstalled', () => {
+      deferredPrompt = null;
+      appInstalled();
+    });
+
+    // Track how PWA was launched (either from browser or as PWA)
+    function getLaunchMode() {
+      const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
+      if(deferredPrompt) hasPrompt();
+      if (document.referrer.startsWith('android-app://')) {
+        appLaunchedAsTWA();
+      } else if (navigator.standalone || isStandalone) {
+        appLaunchedAsPWA();
+      } else {
+        window.appLaunchedInBrowser();
+      }
+    }
 </script>
 </body>
 </html>
