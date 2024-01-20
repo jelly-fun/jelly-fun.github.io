@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "07a8fe721a6088343b9ddc70617cdaa9",
-"assets/AssetManifest.bin.json": "f3a358764fa7061cc960e0007f43adab",
-"assets/AssetManifest.json": "dbf0c2807d1cbf0237c6358032a962b4",
+const RESOURCES = {"assets/AssetManifest.bin": "2379997959d84554dc97d74af2cc36b7",
+"assets/AssetManifest.bin.json": "41376f0d28ddd5672c6edab2e00ffd4d",
+"assets/AssetManifest.json": "d7e66a7851d1d6b5ec79d563ad8130f9",
 "assets/assets/audio/Background_Music.mp3": "47251ebb387a749f169a5520b0a35333",
 "assets/assets/audio/losing_music.mp3": "6783d86e383e3359c5895c27e4d465e0",
 "assets/assets/audio/winning_music.mp3": "de7c0cf36488e8bae779a91a49d5d0cd",
@@ -21,7 +21,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "07a8fe721a6088343b9ddc70617cdaa9
 "assets/assets/instructions/InstallAndroid.png": "a46e612f4645d6b54331a3edcc69c0e5",
 "assets/assets/instructions/InstallAndroid_alt1.png": "f8bee7d186c1b92818b97cc00c03236b",
 "assets/assets/instructions/InstallAndroid_alt2.png": "29b38862caec931e5b4b975c069d22a3",
-"assets/assets/instructions/InstallIOS.png": "6c0a7580139a81710b6f6526949c8fc7",
+"assets/assets/instructions/InstallIos.png": "6c0a7580139a81710b6f6526949c8fc7",
 "assets/assets/instructions/ins_1.png": "bc612bd2b7fd49d0d754b61267e9b030",
 "assets/assets/instructions/ins_2.png": "4e9726f83e0d0a9f2d53ea5070346f62",
 "assets/assets/instructions/ins_3.png": "9d08068f11dc3bcb6465ad418ddbb3b3",
@@ -62,8 +62,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "07a8fe721a6088343b9ddc70617cdaa9
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "icons/Icon-192.png": "1b053054a6b03d313d113f8608135878",
 "icons/Icon-512.png": "804902361a3dfaef9882feeacf531036",
-"index.html": "4c8e9220e7265473a0989728bdba6661",
-"/": "4c8e9220e7265473a0989728bdba6661",
+"index.html": "794c4f66093f3e52dc660c2d0c057701",
+"/": "794c4f66093f3e52dc660c2d0c057701",
 "main.dart.js": "01daab6f41a06f3833ce47bb3b28f08c",
 "manifest.json": "8a30a71d689a5fe636d33599e3f6a741",
 "UnityLibrary/Build/UnityLibrary.data": "de8e1dd1b03a74946c76b61f9dc1fa70",
