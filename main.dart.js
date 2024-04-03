@@ -57787,7 +57787,7 @@ s=r.c
 s.toString
 s=A.aoB(s,t.N1)
 s.vh(0,r.z)},
-F(a){var s=null,r=A.n9(s,!1,s,s,s,B.a1x),q=A.aZ(s,this.agy(),B.j,s,s,B.jh,s,s,s,s,s,s,s,s),p=this.Q
+F(a){var s=null,r=A.n9(s,!1,s,s,s,B.a1y),q=A.aZ(s,this.agy(),B.j,s,s,B.jh,s,s,s,s,s,s,s,s),p=this.Q
 return A.iI(r,s,A.hH(B.bd,A.b([q,A.lr(A.d3(A.jZ(!1,B.mu,s,s,s,s,s,s,new A.aEP(this,a),s,s),s,s),p)],t.p),B.H,B.b1),s,s)},
 agy(){var s,r,q,p=this,o=null,n=p.c
 n.toString
@@ -58200,7 +58200,7 @@ try{A.lC(!0,new A.aN0(this.a),this.b,t.z)}catch(r){s=A.a_(r)
 A.dI("closeFABError","",!1,J.bA(s))}},
 $S:0}
 A.aN0.prototype={
-$1(a){return A.arJ(A.j2(A.b([A.fS(B.a1L,new A.aMZ(a),null),A.fS(B.CA,new A.aN_(this.a,a),null)],t.p),B.a1a,24,B.cz,B.a1B))},
+$1(a){return A.arJ(A.j2(A.b([A.fS(B.a1L,new A.aMZ(a),null),A.fS(B.CA,new A.aN_(this.a,a),null)],t.p),B.a1a,24,B.cz,B.a1C))},
 $S:139}
 A.aMZ.prototype={
 $0(){A.bV(this.a,!1).eL("Cancel")
@@ -58400,7 +58400,7 @@ $1(a){var s,r=this,q=null,p="kostenlos",o=r.b,n=t.p,m=A.aTQ(A.b([new A.eV(B.P,q,
 h=A.aYB(h,A.az(g,q,q,q,A.fb(q,q,o?B.m:B.k,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),new A.akS(l,k,j,i,a))
 g=A.aSr("assets/images/bombs/jelly_bunt.png",30)
 s=l.w===0?"200$":p
-return A.j2(A.b([A.d3(A.bP(A.b([h,B.iu,A.aYB(g,A.az(s,q,q,q,A.fb(q,q,o?B.m:B.k,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),new A.akT(l,k,j,i,a)),B.iu,A.jZ(!1,B.a1P,q,q,q,q,q,q,new A.akU(l,k,j,i,a),q,q)],n),B.q,B.x,B.c8),q,q)],n),m,24,B.TO,B.a2q)},
+return A.j2(A.b([A.d3(A.bP(A.b([h,B.iu,A.aYB(g,A.az(s,q,q,q,A.fb(q,q,o?B.m:B.k,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),new A.akT(l,k,j,i,a)),B.iu,A.jZ(!1,B.a1P,q,q,q,q,q,q,new A.akU(l,k,j,i,a),q,q)],n),B.q,B.x,B.c8),q,q)],n),m,24,B.TO,B.a2p)},
 $S:33}
 A.akS.prototype={
 $0(){var s=this
@@ -58424,7 +58424,7 @@ return A.bQ([null],t.H)},
 $S:0}
 A.akQ.prototype={
 $1(a){var s=null,r=A.az("Du musst zuerst Level "+(this.a.c-1)+" freischalten",s,s,s,s,s,s,s)
-return A.j2(A.b([A.fS(B.a1Y,new A.akP(a),s)],t.p),s,s,s,r)},
+return A.j2(A.b([A.fS(B.a1X,new A.akP(a),s)],t.p),s,s,s,r)},
 $S:33}
 A.akP.prototype={
 $0(){A.bV(this.a,!1).eL("Ok")
@@ -58436,7 +58436,7 @@ if(o.c.a>=500){s=this.a
 r=""+s.c
 q=A.az("Level "+r+" freischalten?",p,p,p,p,p,p,p)
 r=A.az("Willst du level "+r+" f\xfcr 500$ freischalten?",p,p,p,p,p,p,p)
-q=A.j2(A.b([A.fS(B.a27,new A.akM(a),p),A.fS(B.dr,new A.akN(s,o,this.c,a),p)],n),r,24,B.cz,q)
+q=A.j2(A.b([A.fS(B.a26,new A.akM(a),p),A.fS(B.dr,new A.akN(s,o,this.c,a),p)],n),r,24,B.cz,q)
 o=q}else{o=A.az("Du kannst M\xfcnzen durch Spielen der Levels erhalten, du ben\xf6tigst 500$ um dieses Level freizuschalten",p,p,p,p,p,p,p)
 o=A.j2(A.b([A.fS(B.dr,new A.akO(a),p)],n),o,24,B.cz,B.a1p)}return o},
 $S:33}
@@ -58558,7 +58558,7 @@ F(a){var s,r,q=null,p=A.bs(a,q,t.w).w,o=this.e
 o===$&&A.a()
 s=this.a
 r=A.az("Level:  "+s.c,q,q,q,B.a_u,q,q,q)
-return A.is(o,new A.aFo(this),A.fK(B.D,!0,q,new A.Fp(p.a.a,150,A.d3(A.bP(A.b([r,s.d?B.a25:A.aZ(q,q,B.j,q,q,q,q,q,q,q,q,q,q,q),B.fB,B.TR],t.p),B.q,B.bq,B.p),q,q),B.jy,B.dS,q),B.j,B.t,0,q,q,q,q,q,B.br))}}
+return A.is(o,new A.aFo(this),A.fK(B.D,!0,q,new A.Fp(p.a.a,150,A.d3(A.bP(A.b([r,s.d?B.a24:A.aZ(q,q,B.j,q,q,q,q,q,q,q,q,q,q,q),B.fB,B.TR],t.p),B.q,B.bq,B.p),q,q),B.jy,B.dS,q),B.j,B.t,0,q,q,q,q,q,B.br))}}
 A.aFq.prototype={
 $0(){this.a.O(new A.aFp())},
 $S:0}
@@ -58683,7 +58683,7 @@ return new A.hi(r,s.h(a,"xp"),q,s.h(a,"isUser"))},
 $S:487}
 A.yr.prototype={
 F(a){var s=null
-return new A.l9(A.iI(A.n9(s,!0,!0,s,s,B.a2i),s,B.GI,s,s),s,!0,s)}}
+return new A.l9(A.iI(A.n9(s,!0,!0,s,s,B.a2h),s,B.GI,s,s),s,!0,s)}}
 A.ur.prototype={
 Y(){return new A.MA(new A.eM(B.bU,$.av()),B.i)}}
 A.MA.prototype={
@@ -58692,7 +58692,7 @@ s.accept="image/*,.pdf,.doc,.docx"
 s.click()
 A.My(s,"change",new A.aEe(this,s),!1,t.TV.c)},
 F(a){var s=this,r=null
-return A.iI(A.n9(r,!0,r,r,r,B.a1O),r,new A.bc(B.cn,A.bP(A.b([A.b0z(!1,s.d,B.LM,!1,r,r,r,5,r,r,r,r,r,B.az,r),B.dk,A.jZ(!1,B.a1G,r,r,r,r,r,r,s.gat6(),r,r),B.iu,A.az("Ausgew\xe4hlte Datei: "+s.f,r,r,r,r,r,r,r),B.dk,A.jZ(!1,B.a2o,r,r,r,r,r,r,new A.aEf(s),r,r)],t.p),B.c1,B.x,B.p),r),r,r)}}
+return A.iI(A.n9(r,!0,r,r,r,B.a1O),r,new A.bc(B.cn,A.bP(A.b([A.b0z(!1,s.d,B.LM,!1,r,r,r,5,r,r,r,r,r,B.az,r),B.dk,A.jZ(!1,B.a1G,r,r,r,r,r,r,s.gat6(),r,r),B.iu,A.az("Ausgew\xe4hlte Datei: "+s.f,r,r,r,r,r,r,r),B.dk,A.jZ(!1,B.a2n,r,r,r,r,r,r,new A.aEf(s),r,r)],t.p),B.c1,B.x,B.p),r),r,r)}}
 A.aEe.prototype={
 $1(a){var s,r=this.b.files
 r.toString
@@ -58713,7 +58713,7 @@ $S:0}
 A.yU.prototype={
 F(a){var s=null
 this.nc()
-return new A.l9(A.iI(A.n9(s,!1,s,s,s,B.a2k),s,B.Ia,s,s),s,!1,s)},
+return new A.l9(A.iI(A.n9(s,!1,s,s,s,B.a2j),s,B.Ia,s,s),s,!1,s)},
 nc(){var s=0,r=A.o(t.H)
 var $async$nc=A.p(function(a,b){if(a===1)return A.l(b,r)
 while(true)switch(s){case 0:s=2
@@ -58776,7 +58776,7 @@ $.lE()[1].b=s+1+$.aQH
 for(r=2;s=$.lE(),r<s.length;++r){s=s[r]
 q=s.b
 s.b=q+B.dF.rl($.aQH-q)}a.cU("String","highScore",A.aTJ(s))}},
-F(a){var s=this,r=null,q=A.n9(r,!0,r,r,A.aRs(new A.alH(a)),B.a1Z),p=A.aZ(r,r,B.j,r,r,B.jh,r,r,r,r,r,r,r,r),o=s.ai9(),n=s.aAd(),m=s.d,l=s.e,k=t.p
+F(a){var s=this,r=null,q=A.n9(r,!0,r,r,A.aRs(new A.alH(a)),B.a1Y),p=A.aZ(r,r,B.j,r,r,B.jh,r,r,r,r,r,r,r,r),o=s.ai9(),n=s.aAd(),m=s.d,l=s.e,k=t.p
 return A.Hk(r,!1,A.iI(q,r,A.hH(B.bd,A.b([p,A.aof(A.b([new A.T8(o,m,l,r,r,n,A.bbb(o),r)],k),r)],k),B.H,B.b1),r,r),B.f5,r,B.mv,"")},
 ai9(){return A.b([B.IE,B.IF,new A.yy(B.a1T,new A.alB(this))],t.UR)},
 aAd(){var s,r,q,p,o,n,m=null,l=A.b([],t.yy)
@@ -58801,7 +58801,7 @@ r.cU("String",s,q)},
 $S:0}
 A.alG.prototype={
 $1(a){var s=null,r=this.b,q=A.KC(!0,B.bD,!1,s,!0,B.H,s,A.abG(),r,s,s,s,s,s,2,B.LN,B.S,!0,s,!0,s,!1,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,!1,s,!0,s,B.cn,s,s,B.bY,B.by,s,s,s,s,s,s,s,B.az,s,B.ec,s,s,s,s)
-return A.j2(A.b([A.fS(B.dr,new A.alF(this.a,r,this.c,a),s)],t.p),q,s,s,B.a2p)},
+return A.j2(A.b([A.fS(B.dr,new A.alF(this.a,r,this.c,a),s)],t.p),q,s,s,B.a2o)},
 $S:33}
 A.alF.prototype={
 $0(){var s=this
@@ -58887,8 +58887,8 @@ o=A.n9(A.b([A.j4(k,k,new A.aG9(),j,r),new A.fj(new A.aGa(l,i),k)],p),!0,k,k,k,B.
 n=l.ayy(a,i)
 m=s.b
 return A.iI(o,k,new A.l9(A.hH(B.bd,A.b([A.aZ(k,k,B.j,k,k,B.Fn,k,k,k,k,k,k,k,k),A.d3(A.e1(new A.bc(B.Ju,A.bP(A.b([A.j4(k,k,new A.aGb(125),j,r),A.j4(k,k,new A.aGc(q),j,r),A.j4(k,k,new A.aGd(l,i),j,r),A.dr(new A.Kb(new A.aGe(l,i),new A.fZ(m,m.$ti.i("fZ<1>")),k,t.ye),1)],p),B.q,B.bq,B.p),k),1000,500),1,k)],p),B.H,B.b1),k,!0,k),n,k)},
-ayy(a,b){var s,r=null,q=A.b([B.J8,A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pM,r,new A.aFQ(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2r,r,r),!0),A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.L7,r,new A.aFR(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2s,r,r),!0)],t.p)
-if(b instanceof A.iv||b instanceof A.lT)q.push(A.fG(r,A.m9(!1,r,r,r,!this.d,r,r,!1,B.L2,r,new A.aFS(this),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a1y,r,r),B.S,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aFT(this),r,r,r,r,r,r))
+ayy(a,b){var s,r=null,q=A.b([B.J8,A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pM,r,new A.aFQ(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2q,r,r),!0),A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.L7,r,new A.aFR(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2r,r,r),!0)],t.p)
+if(b instanceof A.iv||b instanceof A.lT)q.push(A.fG(r,A.m9(!1,r,r,r,!this.d,r,r,!1,B.L2,r,new A.aFS(this),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a1z,r,r),B.S,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aFT(this),r,r,r,r,r,r))
 q.push(A.lr(new A.wP($.jM(),new A.aFU(),r,r,t.D0),!0))
 s=window.location.href
 s.toString
@@ -58901,9 +58901,9 @@ s.toString
 s=A.dR(s,0,r)
 s=B.d.p(s.gnu(s),"flutter")}else s=!0}else s=!0
 q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.L8,r,new A.aFV(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a1v,r,r),s))
-q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pP,r,new A.aFW(),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a1D,r,r),!0))
-q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pM,r,new A.aFX(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2t,r,r),!0))
-q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pP,r,new A.aFY(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a22,r,r),!1))
+q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pP,r,new A.aFW(),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a1E,r,r),!0))
+q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pM,r,new A.aFX(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a2s,r,r),!0))
+q.push(A.lr(A.m9(!1,r,r,r,!0,r,r,!1,B.pP,r,new A.aFY(a),!1,r,r,new A.cr(A.hq(12),B.n),r,B.c0,B.a21,r,r),!1))
 return new A.TJ(A.aof(q,r),r)},
 zH(a){return this.aEu(a)},
 aEu(a){var s=0,r=A.o(t.H),q=this,p,o,n,m,l,k
@@ -59082,7 +59082,7 @@ $S:147}
 A.aG2.prototype={
 $2(a,b){var s,r=null
 if(b.a===B.jL)return B.jq
-else if(b.c!=null)return B.a1C
+else if(b.c!=null)return B.a1D
 else{s=b.b
 s.toString
 if(s>=3)return A.aZ(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r)
@@ -59195,7 +59195,7 @@ $1(a){var s=" erhalten. Komm morgen wieder!",r=null,q=this.a,p=q.f,o=B.d.p(p,"So
 if(o){o=A.az("Heute hast du "+n+" "+p+s,r,r,r,r,r,r,r)
 o=A.aTQ(A.b([o,A.d3(A.aSr(B.d.p(p,"bunt")?"assets/images/bombs/jelly_bunt.png":"assets/images/bombs/jelly_gelb.png",30),r,r)],t.p))
 p=o}else p=A.az("Heute hast du "+n+" "+p+s,r,r,r,r,r,r,r)
-return A.j2(A.b([A.fS(B.dr,new A.aFF(q,a),r)],t.p),p,r,r,B.a2f)},
+return A.j2(A.b([A.fS(B.dr,new A.aFF(q,a),r)],t.p),p,r,r,B.a2e)},
 $S:33}
 A.aFF.prototype={
 $0(){A.bV(this.b,!1).e8()
@@ -59239,7 +59239,7 @@ F(a){var s=this,r=null,q=A.eZ(a,t.dY).c,p=A.n9(r,!0,r,r,r,B.GH),o=t.p,n=A.b([B.a
 if(m)n.push(B.CE)
 else if(q instanceof A.np)n.push(B.a1t)
 else if(q instanceof A.kL)n.push(B.CE)
-else if(q instanceof A.lT)n.push(B.a2m)
+else if(q instanceof A.lT)n.push(B.a2l)
 if(m)n.push(B.LC)
 else if(q instanceof A.np)n.push(B.LA)
 else if(q instanceof A.kL)n.push(B.LD)
@@ -59253,7 +59253,7 @@ if(m)n.push(B.LB)
 else if(q instanceof A.np)n.push(B.Ls)
 else if(q instanceof A.kL)n.push(B.Ly)
 else if(q instanceof A.lT)n.push(B.LG)
-return A.iI(p,r,A.bP(A.b([A.dr(A.aSX(A.b([B.Va,B.Vf,B.Ve,B.Vb,B.Vc,A.Zy(A.bP(n,B.q,B.x,B.p),B.bQ),A.Zy(A.bP(A.b([B.a1f,B.a1S,B.SJ,B.a1l,A.jZ(!1,B.a2n,r,r,r,r,r,r,new A.aDI(a),r,r)],o),B.q,B.x,B.p),B.bQ)],o),B.H,s.f,B.S,new A.aDJ(s),r),1),A.dP(A.b([A.jZ(!1,B.KY,r,r,r,r,r,r,new A.aDK(s),r,r),A.az(""+(s.r+1)+" / 7",r,r,r,r,r,r,r),A.jZ(!1,B.L3,r,r,r,r,r,r,new A.aDL(s),r,r)],o),B.q,B.cP,B.p,r)],o),B.q,B.x,B.p),r,r)}}
+return A.iI(p,r,A.bP(A.b([A.dr(A.aSX(A.b([B.Va,B.Vf,B.Ve,B.Vb,B.Vc,A.Zy(A.bP(n,B.q,B.x,B.p),B.bQ),A.Zy(A.bP(A.b([B.a1f,B.a1S,B.SJ,B.a1l,A.jZ(!1,B.a2m,r,r,r,r,r,r,new A.aDI(a),r,r)],o),B.q,B.x,B.p),B.bQ)],o),B.H,s.f,B.S,new A.aDJ(s),r),1),A.dP(A.b([A.jZ(!1,B.KY,r,r,r,r,r,r,new A.aDK(s),r,r),A.az(""+(s.r+1)+" / 7",r,r,r,r,r,r,r),A.jZ(!1,B.L3,r,r,r,r,r,r,new A.aDL(s),r,r)],o),B.q,B.cP,B.p,r)],o),B.q,B.x,B.p),r,r)}}
 A.aDJ.prototype={
 $1(a){var s=this.a
 s.O(new A.aDH(s,a))},
@@ -59284,7 +59284,7 @@ A.WJ.prototype={
 F(a){var s,r=null
 A.aYT()
 s=A.jD(B.a3,r)
-return A.Hk(A.jD(B.a3,r),!1,A.aZ(B.P,B.a2g,B.j,r,r,r,r,r,r,r,r,r,r,r),B.f5,s,B.iE,"Kein Mobiles Endger\xe4t")}}
+return A.Hk(A.jD(B.a3,r),!1,A.aZ(B.P,B.a2f,B.j,r,r,r,r,r,r,r,r,r,r,r),B.f5,s,B.iE,"Kein Mobiles Endger\xe4t")}}
 A.HS.prototype={
 Y(){return new A.a5d(B.i)}}
 A.a5d.prototype={
@@ -59299,17 +59299,17 @@ p=$.xu()
 if(p.a){p=p.b
 p=p!==B.pY&&p!==B.pZ}else p=!1
 if(p)q.push(A.jZ(!1,B.a1c,n,n,n,n,n,n,new A.aIz(o),n,n))
-q.push(B.a1E)
 p=o.d
 p===$&&A.a()
-q.push(p?B.a1V:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(p?B.a2t:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(B.a1x)
 q.push(!o.d?B.a1h:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
 q.push(B.dk)
-q.push(!o.d?B.a1W:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
-q.push(!o.d?B.a2h:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(!o.d?B.a1V:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(!o.d?B.a2g:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
 q.push(o.d?B.Ln:B.Lv)
-q.push(!o.d?B.a1X:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
-q.push(!o.d?B.a2c:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(!o.d?B.a1W:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
+q.push(!o.d?B.a2b:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
 q.push(!o.d?B.LE:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
 q.push(!o.d?B.LF:A.aZ(n,n,B.j,n,n,n,n,n,n,n,n,n,n,n))
 return A.Hk(r,!1,A.iI(n,n,A.d3(A.aof(q,B.cn),n,n),n,n),B.f5,s,B.iE,"Herzlich Willkommen zur Studie")}}
@@ -59325,7 +59325,7 @@ $0(){J.bA(this.b)},
 $S:0}
 A.WS.prototype={
 F(a){var s=null,r=A.jD(B.a3,s)
-return A.Hk(A.jD(B.a3,s),!1,A.iI(s,s,A.d3(A.aof(A.b([A.az("Sie befinden sich noch auf einer alten Version, bitte klicken Sie auf den Button um alle aktuellen Daten zu l\xf6schen und neu zu beginnen.Sollte dies nicht der Fall sein und Sie sind sich sicher auf der aktuellen Version zu sein, bitte klicken Sie nicht den Button und l\xf6schen Sie die Cookies nicht. Wir bitten Sie uns zu kontaktieren und diese Nummer mitzuteilen und gegebenenfalls von dieser Seite einen Screenshot zu machen:\n\n\n "+this.c,s,s,s,B.dq,B.F,s,s),A.lr(A.m9(!1,s,s,s,!0,s,s,!1,B.L_,s,new A.aqA(),!1,s,s,new A.cr(A.hq(12),B.n),s,B.c0,B.a1z,s,s),!0)],t.p),B.cn),s,s),s,s),B.f5,r,B.iE,"Alte Seite")}}
+return A.Hk(A.jD(B.a3,s),!1,A.iI(s,s,A.d3(A.aof(A.b([A.az("Sie befinden sich noch auf einer alten Version, bitte klicken Sie auf den Button um alle aktuellen Daten zu l\xf6schen und neu zu beginnen.Sollte dies nicht der Fall sein und Sie sind sich sicher auf der aktuellen Version zu sein, bitte klicken Sie nicht den Button und l\xf6schen Sie die Cookies nicht. Wir bitten Sie uns zu kontaktieren und diese Nummer mitzuteilen und gegebenenfalls von dieser Seite einen Screenshot zu machen:\n\n\n "+this.c,s,s,s,B.dq,B.F,s,s),A.lr(A.m9(!1,s,s,s,!0,s,s,!1,B.L_,s,new A.aqA(),!1,s,s,new A.cr(A.hq(12),B.n),s,B.c0,B.a1A,s,s),!0)],t.p),B.cn),s,s),s,s),B.f5,r,B.iE,"Alte Seite")}}
 A.aqA.prototype={
 $0(){A.ajG()
 $.aW7().Ns("clearCookies")
@@ -59338,7 +59338,7 @@ return new A.Zv(A.b([new A.B0("XP","50 Erfahrungspunkte",100,"xp"),new A.B0(s,"1
 A.Zv.prototype={
 ac(){this.ar()
 this.G4()},
-F(a){var s=this,r=null,q=A.n9(r,!0,r,r,A.aRs(new A.avR(a)),B.a2a),p=A.aZ(r,r,B.j,r,r,B.jh,r,r,r,r,r,r,r,r),o=A.K(51,0,0,0),n=t.p
+F(a){var s=this,r=null,q=A.n9(r,!0,r,r,A.aRs(new A.avR(a)),B.a29),p=A.aZ(r,r,B.j,r,r,B.jh,r,r,r,r,r,r,r,r),o=A.K(51,0,0,0),n=t.p
 return A.Hk(r,!1,A.iI(q,r,A.hH(B.bd,A.b([p,A.bP(A.b([A.aZ(r,A.dP(A.b([A.az("$: "+s.d,r,r,r,r,r,r,r),A.az("Buntes Jelly: "+s.e,r,r,r,r,r,r,r),A.az("Gestreiftes Jelly: "+s.f,r,r,r,r,r,r,r)],n),B.q,B.cP,B.p,r),B.j,o,r,r,r,r,r,r,B.pd,r,r,r),A.dr(A.aZN(new A.avS(s),3,r,!1),1)],n),B.q,B.x,B.p)],n),B.H,B.b1),r,r),B.f5,r,B.mv,"")},
 Ey(a,b){return this.ayI(a,b)},
 ayI(a,b){var s=0,r=A.o(t.H),q=this,p,o,n
@@ -59376,7 +59376,7 @@ $2(a,b){var s,r,q=null,p=this.a,o=p.w[b]
 if(o.d==="xp")return A.aZ(q,q,B.j,q,q,q,q,q,q,q,q,q,q,q)
 s=A.K(B.c.ad(25.5),0,0,0)
 r=A.az(o.a,q,q,q,B.iC,q,q,q)
-return A.aZ(q,A.m9(!1,q,q,q,!0,q,q,!1,q,q,q,!1,q,q,q,A.az(o.b+" - "+o.c+"$",q,q,q,B.iC,q,q,q),q,r,A.jZ(!1,B.a2e,q,q,q,q,q,q,new A.avQ(p,b,a),q,q),q),B.j,s,q,q,q,q,q,q,q,q,q,q)},
+return A.aZ(q,A.m9(!1,q,q,q,!0,q,q,!1,q,q,q,!1,q,q,q,A.az(o.b+" - "+o.c+"$",q,q,q,B.iC,q,q,q),q,r,A.jZ(!1,B.a2d,q,q,q,q,q,q,new A.avQ(p,b,a),q,q),q),B.j,s,q,q,q,q,q,q,q,q,q,q)},
 $S:405}
 A.avQ.prototype={
 $0(){var s=this.a,r=this.b,q=s.w[r].c,p=s.d
@@ -59544,7 +59544,7 @@ $S:70}
 A.BG.prototype={
 F(a){var s=null
 this.nc()
-return new A.l9(A.iI(A.n9(s,!1,s,s,s,B.a2_),s,B.a1j,s,s),s,!1,s)},
+return new A.l9(A.iI(A.n9(s,!1,s,s,s,B.a1Z),s,B.a1j,s,s),s,!1,s)},
 nc(){var s=0,r=A.o(t.H)
 var $async$nc=A.p(function(a,b){if(a===1)return A.l(b,r)
 while(true)switch(s){case 0:s=2
@@ -119734,11 +119734,11 @@ B.jq=new A.tP(B.D4,null,null,null,null,null,null,null)
 B.GF=new A.j5(B.P,null,null,B.jq,null)
 B.Cx=new A.x(!0,B.m,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.F=new A.oK(2,"center")
-B.a29=new A.ay("Tippe Hier!",null,B.Cx,B.F,null,null,null,null,null,null)
+B.a28=new A.ay("Tippe Hier!",null,B.Cx,B.F,null,null,null,null,null,null)
 B.dV=new A.qx(4,"transparency")
 B.j=new A.yc(0,"none")
 B.D=new A.aN(2e5)
-B.Rc=new A.zL(B.a29,B.dV,0,null,null,null,null,null,!0,B.j,B.D,null,null)
+B.Rc=new A.zL(B.a28,B.dV,0,null,null,null,null,null,!0,B.j,B.D,null,null)
 B.GG=new A.j5(B.P,null,null,B.Rc,null)
 B.a1q=new A.ay("Instruktionen zum Spiel",null,null,null,null,null,null,null,null,null)
 B.GH=new A.j5(B.P,null,null,B.a1q,null)
@@ -119752,9 +119752,9 @@ B.bb=new A.x(!0,null,null,null,null,null,null,B.cp,null,null,null,null,null,null
 B.a1m=new A.ay("Universit\xe4t Wien",null,B.bb,B.F,null,null,null,null,null,null)
 B.CD=new A.ay("Floragasse 7, 5. Stock, 1040 Wien\noffice@sba-research.org\n+43 (1) 505 36 88",null,null,B.F,null,null,null,null,null,null)
 B.dk=new A.fs(null,20,null,null)
-B.a20=new A.ay(u.Z,null,B.bb,B.F,null,null,null,null,null,null)
+B.a2_=new A.ay(u.Z,null,B.bb,B.F,null,null,null,null,null,null)
 B.CF=new A.ay("AK-Platz 1, 3100 St. P\xf6lten\njellyfun@aknoe.at\n+43 5 7171-0",null,null,B.F,null,null,null,null,null,null)
-B.OC=A.b(s([B.a1m,B.CD,B.dk,B.a20,B.CF]),t.p)
+B.OC=A.b(s([B.a1m,B.CD,B.dk,B.a2_,B.CF]),t.p)
 B.I6=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.OC,null)
 B.S=new A.TI(1,"start")
 B.H=new A.yc(1,"hardEdge")
@@ -119833,10 +119833,10 @@ B.eA=new A.G(4292030255)
 B.I_=new A.G(436207616)
 B.I0=new A.G(520093696)
 B.I1=new A.G(536870911)
-B.a2d=new A.ay("Diese Studie diente dem Erfassen von nat\xfcrlichem Spielverhalten bei Handy/Tabletspielen und dem Einfluss sogenannter Dark Patterns. Unter Dark Patterns versteht man Features/Eigenschaften des Spiels, die dazu dienen sollen, Spieler:innen zu h\xe4ufigerem oder l\xe4ngerem Spielen zu animieren oder Geld f\xfcr oder im Spiel auszugeben. Mit Ihrer Teilnahme leisten Sie einen wichtigen Beitrag dazu, den Einfluss solcher Dark Patterns noch genauer zu verstehen. Damit k\xf6nnen Spieler:innen in Zukunft besser \xfcber deren Auswirkungen aufgekl\xe4rt und das Spielen solcher Spiele sicherer gestaltet werden.\n                ",null,null,B.F,null,null,null,null,null,null)
-B.a24=new A.ay("Universit\xe4t Wien",null,B.bb,null,null,null,null,null,null,null)
+B.a2c=new A.ay("Diese Studie diente dem Erfassen von nat\xfcrlichem Spielverhalten bei Handy/Tabletspielen und dem Einfluss sogenannter Dark Patterns. Unter Dark Patterns versteht man Features/Eigenschaften des Spiels, die dazu dienen sollen, Spieler:innen zu h\xe4ufigerem oder l\xe4ngerem Spielen zu animieren oder Geld f\xfcr oder im Spiel auszugeben. Mit Ihrer Teilnahme leisten Sie einen wichtigen Beitrag dazu, den Einfluss solcher Dark Patterns noch genauer zu verstehen. Damit k\xf6nnen Spieler:innen in Zukunft besser \xfcber deren Auswirkungen aufgekl\xe4rt und das Spielen solcher Spiele sicherer gestaltet werden.\n                ",null,null,B.F,null,null,null,null,null,null)
+B.a23=new A.ay("Universit\xe4t Wien",null,B.bb,null,null,null,null,null,null,null)
 B.a1N=new A.ay(u.Z,null,B.bb,null,null,null,null,null,null,null)
-B.OR=A.b(s([B.a2d,B.a24,B.CD,B.dk,B.a1N,B.CF]),t.p)
+B.OR=A.b(s([B.a2c,B.a23,B.CD,B.dk,B.a1N,B.CF]),t.p)
 B.Ia=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.OR,null)
 B.jK=new A.yo(0,"none")
 B.jL=new A.yo(1,"waiting")
@@ -119948,10 +119948,10 @@ B.iQ=new A.a2f(null,B.Ip,B.oX,B.Iz,B.oX,!1,B.a5l)
 B.IC=new A.u2(B.iQ,null,B.bT,null,null,null,null,null)
 B.jW=new A.u2(B.iQ,null,null,null,null,null,null,null)
 B.ID=new A.afT(1,"latency")
-B.a2l=new A.ay("Name",null,null,null,null,null,null,null,null,null)
-B.IF=new A.yy(B.a2l,null)
-B.a28=new A.ay("Rang",null,null,null,null,null,null,null,null,null)
-B.IE=new A.yy(B.a28,null)
+B.a2k=new A.ay("Name",null,null,null,null,null,null,null,null,null)
+B.IF=new A.yy(B.a2k,null)
+B.a27=new A.ay("Rang",null,null,null,null,null,null,null,null,null)
+B.IE=new A.yy(B.a27,null)
 B.IG=new A.EZ(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.dK=new A.Tb(0,"day")
 B.jX=new A.Tb(1,"year")
@@ -122076,11 +122076,11 @@ B.BR=new A.b3(B.kY,!0,!1,!1,!1)
 B.BP=new A.b3(B.kZ,!0,!1,!1,!1)
 B.V6=new A.b3(B.eY,!0,!1,!1,!1)
 B.V7=new A.b3(B.eY,!0,!0,!1,!1)
-B.a21=new A.ay("1.\tSpielbrett und Jellies: ",null,B.bb,null,null,null,null,null,null,null)
-B.a2b=new A.ay("Das Spielbrett ist ein Gitter mit verschiedenen farbigen Jellies. Jedes Jelly hat eine einzigartige Farbe und Form. (siehe Bild)\n          ",null,null,null,null,null,null,null,null,null)
+B.a20=new A.ay("1.\tSpielbrett und Jellies: ",null,B.bb,null,null,null,null,null,null,null)
+B.a2a=new A.ay("Das Spielbrett ist ein Gitter mit verschiedenen farbigen Jellies. Jedes Jelly hat eine einzigartige Farbe und Form. (siehe Bild)\n          ",null,null,null,null,null,null,null,null,null)
 B.En=new A.df("assets/instructions/ins_1.png",null,null)
 B.Lo=new A.dv(B.En,null,B.aB,null)
-B.NT=A.b(s([B.a21,B.a2b,B.Lo]),t.p)
+B.NT=A.b(s([B.a20,B.a2a,B.Lo]),t.p)
 B.I8=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.NT,null)
 B.Va=new A.mt(B.bQ,B.I8,null)
 B.a16=new A.ay("4.\tLevelziele:",null,B.bb,null,null,null,null,null,null,null)
@@ -122097,7 +122097,7 @@ B.Lq=new A.dv(B.Ep,null,B.aB,null)
 B.OD=A.b(s([B.a1n,B.a1u,B.Lq]),t.p)
 B.I9=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.OD,null)
 B.Vc=new A.mt(B.bQ,B.I9,null)
-B.a26=new A.ay("3.\tKombinationen und Boni:",null,B.bb,null,null,null,null,null,null,null)
+B.a25=new A.ay("3.\tKombinationen und Boni:",null,B.bb,null,null,null,null,null,null,null)
 B.a18=new A.ay("\u2022\tKombiniere 4 Jellies, um ein Sonderjelly zu erhalten, das eine ganze Reihe (horizontal gestreift, Bild links) oder Spalte (vertikal gestreift, Bild rechts) l\xf6schen kann. ",null,null,null,null,null,null,null,null,null)
 B.SK=new A.bc(B.hb,B.a18,null)
 B.EB=new A.df("assets/images/bombs/jelly_gelb_vertical.png",null,null)
@@ -122110,16 +122110,16 @@ B.a1r=new A.ay("  \u2022\tKombiniere 5 Jellies in einem T- oder L-Form, um ein R
 B.SI=new A.bc(B.hb,B.a1r,null)
 B.El=new A.df("assets/images/bombs/jelly_bunt.png",null,null)
 B.LH=new A.dv(B.El,50,null,null)
-B.a23=new A.ay("Du kannst Sonderjellies auch im Shop oder direkt vor dem Levelstart kaufen. Pro Level kann nur ein Sonderjelly zu Beginn platziert werden, indem du auf das Jelly klickst, dass ersetzt werden soll. Die Sonderjellies k\xf6nnen dir helfen schwierige Level zu meistern.\n",null,null,null,null,null,null,null,null,null)
-B.SH=new A.bc(B.hb,B.a23,null)
-B.N6=A.b(s([B.a26,B.SK,B.TQ,B.SI,B.LH,B.SH]),t.p)
+B.a22=new A.ay("Du kannst Sonderjellies auch im Shop oder direkt vor dem Levelstart kaufen. Pro Level kann nur ein Sonderjelly zu Beginn platziert werden, indem du auf das Jelly klickst, dass ersetzt werden soll. Die Sonderjellies k\xf6nnen dir helfen schwierige Level zu meistern.\n",null,null,null,null,null,null,null,null,null)
+B.SH=new A.bc(B.hb,B.a22,null)
+B.N6=A.b(s([B.a25,B.SK,B.TQ,B.SI,B.LH,B.SH]),t.p)
 B.I4=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.N6,null)
 B.Ve=new A.mt(B.bQ,B.I4,null)
 B.a1R=new A.ay("2.\tSpielz\xfcge:",null,B.bb,null,null,null,null,null,null,null)
-B.a1A=new A.ay("Tausche zwei benachbarte Jellies, um eine Reihe oder Spalte von mindestens drei gleichfarbigen Jellies zu bilden.\n              ",null,null,null,null,null,null,null,null,null)
+B.a1B=new A.ay("Tausche zwei benachbarte Jellies, um eine Reihe oder Spalte von mindestens drei gleichfarbigen Jellies zu bilden.\n              ",null,null,null,null,null,null,null,null,null)
 B.Eq=new A.df("assets/instructions/ins_2.png",null,null)
 B.Lr=new A.dv(B.Eq,null,B.aB,null)
-B.Ox=A.b(s([B.a1R,B.a1A,B.Lr]),t.p)
+B.Ox=A.b(s([B.a1R,B.a1B,B.Lr]),t.p)
 B.I7=new A.kJ(B.ag,B.x,B.p,B.q,null,B.aK,null,B.Ox,null)
 B.Vf=new A.mt(B.bQ,B.I7,null)
 B.Xf=new A.bq("Unselbstst\xe4ndig erwerbst\xe4tig (Lehrling, Arbeiter:in, Angestellte:r, Vertragsbedienstete, Beamter/Beamtin)","0")
@@ -122219,9 +122219,9 @@ B.D3=new A.azT(0,"start")
 B.ms=new A.x(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a1K=new A.ay("XP werden genutzt um im HighScore(siehe",null,B.ms,null,null,null,null,null,null,null)
 B.VH=new A.fs(5,null,null,null)
-B.a2j=new A.ay(" oben rechts)",null,B.ms,null,null,null,null,null,null,null)
+B.a2i=new A.ay(" oben rechts)",null,B.ms,null,null,null,null,null,null,null)
 B.a1e=new A.ay(" voranzukommen!",null,B.ms,null,null,null,null,null,null,null)
-B.OP=A.b(s([B.a1K,B.VH,B.pQ,B.a2j,B.a1e]),t.p)
+B.OP=A.b(s([B.a1K,B.VH,B.pQ,B.a2i,B.a1e]),t.p)
 B.a5b=new A.Lf(B.a5a,B.OP,null)
 B.GE=new A.j5(B.P,null,null,B.a5b,null)
 B.VS=new A.rd(B.GE,null,null,null,null,null,null,null,null,null,null,null,null,B.kb,null,null,null,B.H,null)
@@ -122648,14 +122648,14 @@ B.CC=new A.ay("Au\xdferdem gibt es im Men\xfc noch ein weiters spannendes Featur
 B.dp=new A.x(!0,B.ca,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a1v=new A.ay("Feedback senden",null,B.dp,null,null,null,null,null,null,null)
 B.a1w=new A.ay("Um an der Studie teilnehmen zu k\xf6nnen",null,B.dq,B.F,null,null,null,null,null,null)
-B.a1x=new A.ay("Drehe um XP und $ zu erhalten",null,null,null,null,null,null,null,null,null)
+B.a1x=new A.ay("Im Anschluss k\xf6nnen Sie die Seite bzw. das Spiel wie jede gew\xf6hnliche App handhaben.",null,B.dq,B.F,null,null,null,null,null,null)
+B.a1y=new A.ay("Drehe um XP und $ zu erhalten",null,null,null,null,null,null,null,null,null)
 B.dr=new A.ay("OK",null,null,null,null,null,null,null,null,null)
-B.a1y=new A.ay("T\xe4gliche Belohnung",null,B.dp,null,null,null,null,null,null,null)
-B.a1z=new A.ay("Clear Cookies",null,null,null,null,null,null,null,null,null)
-B.a1B=new A.ay("Level abbrechen",null,null,null,null,null,null,null,null,null)
-B.a1C=new A.ay("Vergiss nicht deine t\xe4gliche Belohnung im Men\xfc oben abzuholen!",null,null,B.F,null,null,null,null,null,null)
-B.a1D=new A.ay("Imprint",null,B.dp,null,null,null,null,null,null,null)
-B.a1E=new A.ay("              \nIm Anschluss k\xf6nnen Sie die Seite bzw. das Spiel wie jede gew\xf6hnliche App handhaben.",null,B.dq,B.F,null,null,null,null,null,null)
+B.a1z=new A.ay("T\xe4gliche Belohnung",null,B.dp,null,null,null,null,null,null,null)
+B.a1A=new A.ay("Clear Cookies",null,null,null,null,null,null,null,null,null)
+B.a1C=new A.ay("Level abbrechen",null,null,null,null,null,null,null,null,null)
+B.a1D=new A.ay("Vergiss nicht deine t\xe4gliche Belohnung im Men\xfc oben abzuholen!",null,null,B.F,null,null,null,null,null,null)
+B.a1E=new A.ay("Imprint",null,B.dp,null,null,null,null,null,null,null)
 B.a1F=new A.ay("Vergiss nicht deine t\xe4gliche Belohnung im Men\xfc abzuholen!",null,null,B.F,null,null,null,null,null,null)
 B.a1G=new A.ay("Date/Bild ausw\xe4hlen",null,null,null,null,null,null,null,null,null)
 B.a1H=new A.ay("Zur Umfrage",null,null,null,null,null,null,null,null,null)
@@ -122670,33 +122670,33 @@ B.a1S=new A.ay("Schalte neue Level und Herausforderungen frei, indem du im Spiel
 B.a1T=new A.ay("XP",null,null,null,null,null,null,null,null,null)
 B.a_T=new A.x(!0,B.f6,null,null,null,null,15,B.cp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a1U=new A.ay("Dies ist eine TestVersion und wird nicht f\xfcr die Studie verwendet. Um an der richtigen Studie teilzunehmen bitte die Seite jelly-fun.github.io aufrufen.",null,B.a_T,B.F,null,null,null,null,null,null)
-B.a1V=new A.ay("                  \nDr\xfccken Sie auf den \u201eTeilen\u201c-Button (kleine Viereck mit dem Pfeil nach oben) -> Option -> zum Home-Bildschirm\n                  \nAchtung: Sollte diese Anleitung nicht Ihrer Darstellung entsprechen m\xfcssen Sie den Link kopieren und in Safari (Standardbrowser IOS) einf\xfcgen.\n                  \nBeim ersten \xd6ffnen der App werden Sie gefragt, ob diese Ihnen Pushnachrichten senden darf. Bitte klicken Sie hier auf \u201eErlauben\u201c. Dies ist wichtig f\xfcr den vollen Funktionsumfang der Studie!\n",null,B.dq,B.F,null,null,null,null,null,null)
-B.a1W=new A.ay("Option 1",null,B.iD,B.F,null,null,null,null,null,null)
-B.a1X=new A.ay("Option 2",null,B.iD,B.F,null,null,null,null,null,null)
-B.a1Y=new A.ay("Ok",null,null,null,null,null,null,null,null,null)
-B.a1Z=new A.ay("High Score",null,null,null,null,null,null,null,null,null)
-B.a2_=new A.ay("Information",null,null,null,null,null,null,null,null,null)
-B.a22=new A.ay("Fortune Wheel",null,B.iC,null,null,null,null,null,null,null)
+B.a1V=new A.ay("Option 1",null,B.iD,B.F,null,null,null,null,null,null)
+B.a1W=new A.ay("Option 2",null,B.iD,B.F,null,null,null,null,null,null)
+B.a1X=new A.ay("Ok",null,null,null,null,null,null,null,null,null)
+B.a1Y=new A.ay("High Score",null,null,null,null,null,null,null,null,null)
+B.a1Z=new A.ay("Information",null,null,null,null,null,null,null,null,null)
+B.a21=new A.ay("Fortune Wheel",null,B.iC,null,null,null,null,null,null,null)
 B.a_w=new A.x(!0,B.k,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a25=new A.ay("Vergiss nicht dein gekauftes Sonderjelly zu setzen",null,B.a_w,null,null,null,null,null,null,null)
-B.a27=new A.ay("Abbrechen",null,null,null,null,null,null,null,null,null)
-B.a2a=new A.ay("Shop",null,null,null,null,null,null,null,null,null)
-B.a2c=new A.ay('Dr\xfccken Sie auf die drei Linien rechts unten auf dem Bildschirm \uf0e0 anschlie\xdfend im Men\xfc auf "Seite Hinzuf\xfcgen" / "Add page to" --> "Homescreen"/"Startbildschirm" (siehe Bilder)',null,B.dq,B.F,null,null,null,null,null,null)
-B.a2e=new A.ay("Kaufen",null,null,null,null,null,null,null,null,null)
-B.a2f=new A.ay("Deine t\xe4gliche Belohnung",null,null,null,null,null,null,null,null,null)
-B.a2g=new A.ay("Diese Applikation ist ausschlie\xdflich f\xfcr Mobile Endger\xe4te!",null,B.iD,B.F,null,B.aT,null,null,null,null)
-B.a2h=new A.ay("Dr\xfccken Sie auf die drei kleinen Punkte rechts oben auf dem Bildschirm  \uf0e0 anschlie\xdfend im Men\xfc auf \u201eApp installieren\u201c (siehe Bilder)",null,B.dq,B.F,null,null,null,null,null,null)
-B.a2i=new A.ay("Kontaktinformationen",null,null,B.F,null,null,null,null,null,null)
-B.a2k=new A.ay("Vielen Dank f\xfcr Ihre Teilnahme! ",null,null,null,null,null,null,null,null,null)
-B.a2m=new A.ay("Im Hauptmen\xfc siehst du welche Level du bereits freigespielt hast (K\xe4stchen hat eine deckende Farbe (1)) und wie viele M\xfcnzen du hast (2) (diese kannst du nutzen um Sonderjellies zu kaufen). Im Men\xfc (3) kannst du diese Instruktionen jederzeit erneut durchlesen, solltest du etwas vergessen haben.\n                                ",null,null,null,null,null,null,null,null,null)
-B.a2n=new A.ay("Spiel jetzt starten",null,null,B.F,null,null,null,null,null,null)
-B.a2o=new A.ay("Feedback senden",null,null,null,null,null,null,null,null,null)
-B.a2p=new A.ay("Username eingeben",null,null,null,null,null,null,null,null,null)
-B.a2q=new A.ay("Sonderjelly Auswahl",null,null,null,null,null,null,null,null,null)
-B.a2r=new A.ay("Instruktionen",null,B.dp,null,null,null,null,null,null,null)
+B.a24=new A.ay("Vergiss nicht dein gekauftes Sonderjelly zu setzen",null,B.a_w,null,null,null,null,null,null,null)
+B.a26=new A.ay("Abbrechen",null,null,null,null,null,null,null,null,null)
+B.a29=new A.ay("Shop",null,null,null,null,null,null,null,null,null)
+B.a2b=new A.ay('Dr\xfccken Sie auf die drei Linien rechts unten auf dem Bildschirm \uf0e0 anschlie\xdfend im Men\xfc auf "Seite Hinzuf\xfcgen" / "Add page to" --> "Homescreen"/"Startbildschirm" (siehe Bilder)',null,B.dq,B.F,null,null,null,null,null,null)
+B.a2d=new A.ay("Kaufen",null,null,null,null,null,null,null,null,null)
+B.a2e=new A.ay("Deine t\xe4gliche Belohnung",null,null,null,null,null,null,null,null,null)
+B.a2f=new A.ay("Diese Applikation ist ausschlie\xdflich f\xfcr Mobile Endger\xe4te!",null,B.iD,B.F,null,B.aT,null,null,null,null)
+B.a2g=new A.ay("Dr\xfccken Sie auf die drei kleinen Punkte rechts oben auf dem Bildschirm  \uf0e0 anschlie\xdfend im Men\xfc auf \u201eApp installieren\u201c (siehe Bilder)",null,B.dq,B.F,null,null,null,null,null,null)
+B.a2h=new A.ay("Kontaktinformationen",null,null,B.F,null,null,null,null,null,null)
+B.a2j=new A.ay("Vielen Dank f\xfcr Ihre Teilnahme! ",null,null,null,null,null,null,null,null,null)
+B.a2l=new A.ay("Im Hauptmen\xfc siehst du welche Level du bereits freigespielt hast (K\xe4stchen hat eine deckende Farbe (1)) und wie viele M\xfcnzen du hast (2) (diese kannst du nutzen um Sonderjellies zu kaufen). Im Men\xfc (3) kannst du diese Instruktionen jederzeit erneut durchlesen, solltest du etwas vergessen haben.\n                                ",null,null,null,null,null,null,null,null,null)
+B.a2m=new A.ay("Spiel jetzt starten",null,null,B.F,null,null,null,null,null,null)
+B.a2n=new A.ay("Feedback senden",null,null,null,null,null,null,null,null,null)
+B.a2o=new A.ay("Username eingeben",null,null,null,null,null,null,null,null,null)
+B.a2p=new A.ay("Sonderjelly Auswahl",null,null,null,null,null,null,null,null,null)
+B.a2q=new A.ay("Instruktionen",null,B.dp,null,null,null,null,null,null,null)
 B.mu=new A.ay("Weiter",null,null,null,null,null,null,null,null,null)
-B.a2s=new A.ay("Shop",null,B.dp,null,null,null,null,null,null,null)
-B.a2t=new A.ay("Kontakt",null,B.dp,null,null,null,null,null,null,null)
+B.a2r=new A.ay("Shop",null,B.dp,null,null,null,null,null,null,null)
+B.a2s=new A.ay("Kontakt",null,B.dp,null,null,null,null,null,null,null)
+B.a2t=new A.ay("\nSollte diese Anleitung nicht Ihrer Darstellung entsprechen m\xfcssen Sie den Link kopieren und in Safari (Standardbrowser IOS) einf\xfcgen.          \n\nDr\xfccken Sie auf den \u201eTeilen\u201c-Button (kleine Viereck mit dem Pfeil nach oben) -> Option -> zum Home-Bildschirm\n\nBeim ersten \xd6ffnen der App werden Sie gefragt, ob diese Ihnen Pushnachrichten senden darf. Bitte klicken Sie hier auf \u201eErlauben\u201c. Dies ist wichtig f\xfcr den vollen Funktionsumfang der Studie!\n",null,B.dq,B.F,null,null,null,null,null,null)
 B.mv=new A.KN(0,"system")
 B.iE=new A.KN(1,"light")
 B.a2u=new A.KN(2,"dark")
