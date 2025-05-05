@@ -8208,14 +8208,14 @@ this.b=b},
 aYX(){if(A.aMI())return!A.aMJ()
 return!1},
 aMI(){var s=$.aKP()
-if(B.c.n(s,"iPad")||B.c.n(s,"iPhone")||B.c.n(s,"iPod"))return!0
+if(B.c.n(s,"iPad")||B.c.n(s,"iPhone")||B.c.n(s,"Macintosh")||B.c.n(s,"iPod"))return!0
 return!1},
 aMJ(){var s=window.matchMedia("(display-mode: standalone)").matches
 s.toString
 if(!s)return!1
 return!0},
 aYY(){var s=$.aKP()
-if(B.c.n(s,"Mobi")||B.c.n(s,"Android")||B.c.n(s,"iPhone")||B.c.n(s,"iPad")||B.c.n(s,"iPod")||B.c.n(s,"Windows Phone")||B.c.n(s,"BlackBerry"))return!0
+if(B.c.n(s,"Mobi")||B.c.n(s,"Android")||B.c.n(s,"iPhone")||B.c.n(s,"iPad")||B.c.n(s,"iPod")||B.c.n(s,"Macintosh")||B.c.n(s,"Windows Phone")||B.c.n(s,"BlackBerry"))return!0
 return!1},
 aYW(){var s=A.kT()
 return s.bG(new A.a8I(s),t.N)},
